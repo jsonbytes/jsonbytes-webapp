@@ -7,7 +7,7 @@ const ErrorPage = () => {
     <>
       <Navbar />
       <Box
-        height="100vh"
+        height="80vh"
         display="flex"
         alignItems="center"
         justifyContent="center"
